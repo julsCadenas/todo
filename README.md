@@ -1,3 +1,5 @@
+### website link: https://todo-ten-puce.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -23,7 +25,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## About the project
 
 I followed this guide: [FreeCodeCamp React JS App](https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/) as the first step of learning React and Next.js
-
-
-
-
